@@ -44,3 +44,18 @@ ganti IP "192.168.43.130" dengan IP address laptop atau kompute yang anda jadika
 upload program 
 buka browser anda
 masukkan url "localhost/dht11"
+
+
+
+credits :
+https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-server-with-arduino-ide/
+https://randomnerdtutorials.com/esp8266-nodemcu-http-get-post-arduino/
+https://www.w3schools.com/js/js_json.asp
+https://www.w3schools.com/js/js_json_php.asp
+
+
+library yg sy gunakan:
+https://getbootstrap.com/
+https://www.chartjs.org/
+https://bernii.github.io/gauge.js/
+
